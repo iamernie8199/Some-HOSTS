@@ -17,7 +17,8 @@ lists = {
     'EasyPrivacyCNAME': 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt',
     'FutaFilter_hosts': 'https://filter.futa.gg/hosts.txt',
     'FutaFilter_nofarm_hosts': 'https://filter.futa.gg/nofarm_hosts.txt',
-    'FutaFilter_TW165': 'https://filter.futa.gg/TW165.txt'
+    'FutaFilter_TW165': 'https://filter.futa.gg/TW165.txt',
+    'anti-AD': 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt'
 }
 
 for name, url in lists.items():
