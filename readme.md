@@ -19,6 +19,7 @@ Currently includes:
 - [FutaFilter_hosts](https://raw.githubusercontent.com/iamernie8199/Some-HOSTS/master/FutaFilter_hosts.txt) (from [FutaFilter](https://filter.futa.gg/hosts.txt))
 - [FutaFilter_nofarm_hosts](https://raw.githubusercontent.com/iamernie8199/Some-HOSTS/master/FutaFilter_nofarm_hosts.txt) (from [FutaFilter](https://filter.futa.gg/nofarm_hosts.txt))
 - [FutaFilter_TW165](https://raw.githubusercontent.com/iamernie8199/Some-HOSTS/master/FutaFilter_TW165.txt) (from [FutaFilter](https://filter.futa.gg/TW165.txt))
+- [anti-AD](https://raw.githubusercontent.com/iamernie8199/Some-HOSTS/master/anti-AD.txt) (from [anti-AD](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt))
 
 ## Sources
 - AdGuard filters are licensed under the GPLv3 [(1)](https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE) [(2)](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/LICENSE)
