@@ -1,7 +1,6 @@
 # AdguardCNAMEAds
-#
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt
-# Last converted - Mon, 17 Jul 2023 21:00:37 +0100
+# Last converted - 20 Jul 2023
 #
 
 0.0.0.0 0.oldgyhogola.com
