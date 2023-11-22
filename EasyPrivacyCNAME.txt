@@ -1,6 +1,6 @@
 # EasyPrivacyCNAME
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-# Last converted - 20 Jul 2023
+# Last converted - 22 Nov 2023
 #
 
 0.0.0.0 0d8is908gby1.www.terraform.com.ar
@@ -2114,7 +2114,6 @@
 0.0.0.0 access.sunpower.com
 0.0.0.0 access2.ipro.net
 0.0.0.0 accuratecraneplan-test.inthere.link
-0.0.0.0 acesse.tc.com.br
 0.0.0.0 acq-au.americanexpress.com
 0.0.0.0 acq-hk.americanexpress.com
 0.0.0.0 acq-jp.americanexpress.com
@@ -3274,7 +3273,6 @@
 0.0.0.0 ca.connect.finning.com
 0.0.0.0 caapp.levi.com
 0.0.0.0 cakep.indonesiya.com
-0.0.0.0 calculator.maplesoft.com
 0.0.0.0 calibration.ni.com
 0.0.0.0 campaign-direct.eisai.jp
 0.0.0.0 campaign-fbsg.fujifilm.com
@@ -3457,7 +3455,6 @@
 0.0.0.0 clnbze.gloswielkopolski.pl
 0.0.0.0 clnbze.naszemiasto.pl
 0.0.0.0 cloud.aspiresys.com
-0.0.0.0 cloud.degoo.com
 0.0.0.0 cloud.webtrack.online
 0.0.0.0 cloudhosting-business.vodafone.com
 0.0.0.0 cloverleaf.infor.com
@@ -4874,7 +4871,6 @@
 0.0.0.0 experience.rsm.com.au
 0.0.0.0 experiences.cibc.com
 0.0.0.0 expertdecking.inthere.link
-0.0.0.0 explore.agilent.com
 0.0.0.0 explore.att.com
 0.0.0.0 explore.broncos.com.au
 0.0.0.0 explore.bytelab.uk
@@ -5162,7 +5158,6 @@
 0.0.0.0 get.schoolbuddy.app
 0.0.0.0 get.seedly.sg
 0.0.0.0 get.sidekick.health
-0.0.0.0 get.smart-guide.org
 0.0.0.0 get.snapask.com
 0.0.0.0 get.somontreal.ca
 0.0.0.0 get.speaky.com
@@ -6789,7 +6784,6 @@
 0.0.0.0 link.marketing.churchomeglobal.org
 0.0.0.0 link.mbtihell.com
 0.0.0.0 link.medibuddy.app
-0.0.0.0 link.medium.com
 0.0.0.0 link.metronaut.app
 0.0.0.0 link.meumulti.com.br
 0.0.0.0 link.mindsetapp.com

@@ -1,6 +1,6 @@
 # FutaFilter_nofarm_hosts
 # Converted from - https://filter.futa.gg/nofarm_hosts.txt
-# Last converted - 20 Jul 2023
+# Last converted - 22 Nov 2023
 #
 
 0.0.0.0 366service.com

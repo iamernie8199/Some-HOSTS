@@ -1,6 +1,7 @@
-# Mobile HOSTS
+# Some HOSTS
 
 HOSTS files converted or sourced from various mobile filter lists to prevent ads and tracking.
+
 Python Version of the original repository, and add some specific filter lists for personal use.
 
 Currently includes:
