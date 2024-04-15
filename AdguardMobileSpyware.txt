@@ -1,6 +1,6 @@
 # AdguardMobileSpyware
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - 22 Nov 2023
+# Last converted - 15 Apr 2024
 #
 
 0.0.0.0 33across.com
@@ -13,7 +13,6 @@
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
-0.0.0.0 ada-tr.staff-start.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx4ae.ut.taobao.com
@@ -36,7 +35,6 @@
 0.0.0.0 advangelists.com
 0.0.0.0 advmob.cn
 0.0.0.0 adx-in.ads.heytapmobile.com
-0.0.0.0 af-event-logger.appsflyer.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
@@ -71,6 +69,7 @@
 0.0.0.0 analytics.300624.com
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.any.do
+0.0.0.0 analytics.app.funnelish.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.dns-shop.ru
@@ -99,6 +98,7 @@
 0.0.0.0 analytics.rover.io
 0.0.0.0 analytics.seekxr.com
 0.0.0.0 analytics.snaptube.app
+0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andmlb.kshwtj.com
@@ -114,16 +114,14 @@
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.branch.io
+0.0.0.0 api.bytebrew.io
 0.0.0.0 api.data-analytics.pokemon.com
 0.0.0.0 api.gameanalytics.com
-0.0.0.0 api.gameofwhales.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.reproio.com
-0.0.0.0 api.safegraph.com
-0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
@@ -133,6 +131,7 @@
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.branch.io
 0.0.0.0 apiv2.moengage.com
+0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 applog.uc.cn
@@ -150,6 +149,7 @@
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 autotrack.studyquicks.com
 0.0.0.0 b94.yahoo.co.jp
 0.0.0.0 b99.yahoo.co.jp
 0.0.0.0 banner.appsflyer.com
@@ -169,7 +169,6 @@
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 c.bigmir.net
-0.0.0.0 c.data.mob.com
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 carfax.sc.omtrdc.net
@@ -230,6 +229,7 @@
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 demdex.net
 0.0.0.0 detect.rayjump.com
+0.0.0.0 devlog-upload-os.hoyoverse.com
 0.0.0.0 dex50.deteql.net
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dig.bdurl.net
@@ -274,7 +274,9 @@
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.betterhelp.com
+0.0.0.0 events.character.ai
 0.0.0.0 events.claspws.tv
+0.0.0.0 events.funnelish.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.lbesecapi.com
@@ -286,6 +288,7 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
 0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 fvalid.appsflyer.com
@@ -312,6 +315,7 @@
 0.0.0.0 grs.hicloud.com
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 hit.gemius.pl
+0.0.0.0 hkrpg-log-upload-os.hoyoverse.com
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 hwstats.unity3d.com
@@ -319,7 +323,6 @@
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 iemiq.com
 0.0.0.0 ilyonanalytics.herokuapp.com
-0.0.0.0 imp.apprevolve.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
@@ -343,10 +346,12 @@
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
+0.0.0.0 kr-col-ext.nelo.navercorp.com
 0.0.0.0 krxd.net
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 lepodownload.mediatek.com
+0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 lhzbdvm.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 loadus.exelator.com
@@ -360,6 +365,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.apkomega.com
@@ -368,12 +374,14 @@
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.down61.com
+0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.easy39.com
 0.0.0.0 log.espn.com
 0.0.0.0 log.estand.jp
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 log.geetest.com
+0.0.0.0 log.goodreels.com
 0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.make50.com
@@ -382,6 +390,7 @@
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.snow.me
+0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tpns.tencent.com
 0.0.0.0 log.umsns.com
@@ -407,11 +416,9 @@
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 lp4.io
-0.0.0.0 m.data.mob.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 mathtag.com
 0.0.0.0 mazu.sec.miui.com
-0.0.0.0 measuread.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 message-hub-svc.usw2.cordial.com
 0.0.0.0 metok.sys.miui.com
@@ -425,6 +432,7 @@
 0.0.0.0 metrics.spbtv.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 mgs123.com
+0.0.0.0 minor-api-os.hoyoverse.com
 0.0.0.0 mintegral.net
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 mlb.did.ijinshan.com
@@ -457,6 +465,7 @@
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 node.aibeacon.jp
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 npario-inc.net
 0.0.0.0 nrc.tapas.net
 0.0.0.0 ntracker-collector.naver.com
@@ -471,6 +480,7 @@
 0.0.0.0 onthe.io
 0.0.0.0 open.oneplus.net
 0.0.0.0 openstat.net
+0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.statp.com
 0.0.0.0 pangle-b.io
 0.0.0.0 pathfinder.analytics.komoot.net
@@ -516,6 +526,7 @@
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.iheartmedia.gbqofs.io
 0.0.0.0 reporting.aatkit.com
+0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
@@ -524,11 +535,11 @@
 0.0.0.0 rt.applvn.com
 0.0.0.0 rtag.farmers.com
 0.0.0.0 rts.mobula.sdk.duapps.com
-0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 sadobeanalytics.geico.com
+0.0.0.0 sb.scorecard.research.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-log-inter.youdao.com
@@ -542,6 +553,8 @@
 0.0.0.0 sdks.stats-locations.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
+0.0.0.0 sentry.eks.hoyoverse.com
+0.0.0.0 sg-public-data-api.hoyoverse.com
 0.0.0.0 sg.log.ulivetv.net
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sia.internet.apps.samsung.com
@@ -569,9 +582,8 @@
 0.0.0.0 stats.grafana.org
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.popcap.com
+0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
-0.0.0.0 stats.umsns.com
-0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
@@ -598,7 +610,9 @@
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tobapplog.ctobsnssdk.com
+0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com
+0.0.0.0 toblog.tobsnssdk.com
 0.0.0.0 tok.vaicore.xyz
 0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.line.me
@@ -616,13 +630,13 @@
 0.0.0.0 track.midway.run
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.pingstart.com
+0.0.0.0 track.starmakerstudios.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.departapp.com
-0.0.0.0 tracker.dianshige.com
 0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.neodatagroup.com
@@ -679,9 +693,11 @@
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 viva.api.xiaoying.co
+0.0.0.0 volceapplog.com
 0.0.0.0 w55c.net
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 webmetrics.mayoclinic.org
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 wompanalytics.azurewebsites.net
@@ -693,6 +709,8 @@
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
+0.0.0.0 ys-log-upload-os.hoyoverse.com
 0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 zdbb.net
+0.0.0.0 zml-apm-prd.dbv4.noncd.db.de
 0.0.0.0 ztevents.zaloapp.com
