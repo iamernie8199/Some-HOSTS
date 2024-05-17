@@ -1,5 +1,5 @@
 # FutaFilter_nofarm_hosts
 # Converted from - https://filter.futa.gg/nofarm_hosts.txt
-# Last converted - 15 Apr 2024
+# Last converted - 17 May 2024
 #
 

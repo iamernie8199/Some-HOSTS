@@ -1,5 +1,5 @@
 # EasyPrivacyCNAME
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-# Last converted - 15 Apr 2024
+# Last converted - 17 May 2024
 #
 

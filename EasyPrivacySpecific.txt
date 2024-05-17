@@ -1,6 +1,6 @@
 # EasyPrivacySpecific
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - 15 Apr 2024
+# Last converted - 17 May 2024
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -96,9 +96,11 @@
 0.0.0.0 bup.bankofamerica.com
 0.0.0.0 c.arstechnica.com
 0.0.0.0 c.fingerprint.com
+0.0.0.0 c.gq.com
 0.0.0.0 c.newyorker.com
 0.0.0.0 c.paypal.com
 0.0.0.0 c.thredup.com
+0.0.0.0 c.vanityfair.com
 0.0.0.0 c.vogue.com
 0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
@@ -186,6 +188,7 @@
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.torry.io
 0.0.0.0 data.younow.com
+0.0.0.0 datadome.maisonsdumonde.com
 0.0.0.0 datadome.patreon.com
 0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
 0.0.0.0 dc.banggood.com
@@ -357,6 +360,7 @@
 0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
+0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 medal.tv
 0.0.0.0 megatron.igraal.com
@@ -398,9 +402,11 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.hentaiforce.net
+0.0.0.0 p.minds.com
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pappagallu.onefootball.com
+0.0.0.0 pcp.coupert.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 performance-logger.minted.com
 0.0.0.0 perr.hola.org
@@ -445,7 +451,9 @@
 0.0.0.0 pxl.indeed.com
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 qc.arstechnica.com
+0.0.0.0 qc.gq.com
 0.0.0.0 qc.newyorker.com
+0.0.0.0 qc.vanityfair.com
 0.0.0.0 qc.vogue.com
 0.0.0.0 qc.wired.com
 0.0.0.0 qfp.intuit.com
@@ -521,6 +529,7 @@
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it
+0.0.0.0 stats.mempool.space
 0.0.0.0 stats.newsweek.com
 0.0.0.0 stats.pstream.net
 0.0.0.0 stats.qwant.com
@@ -565,6 +574,7 @@
 0.0.0.0 t.zulily.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t570.wiltonbulletin.com
+0.0.0.0 t810.ctpost.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagging.steelseries.com
 0.0.0.0 tags.aljazeera.com
@@ -681,5 +691,6 @@
 0.0.0.0 z680.beaumontenterprise.com
 0.0.0.0 z737.thestar.com
 0.0.0.0 za.qeeq.com
+0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zion.qbo.intuit.com

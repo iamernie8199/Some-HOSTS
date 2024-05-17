@@ -1,6 +1,6 @@
 # AdguardMobileSpyware
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - 15 Apr 2024
+# Last converted - 17 May 2024
 #
 
 0.0.0.0 33across.com
@@ -133,6 +133,7 @@
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 app-analytics-ru.huami.com
+0.0.0.0 app-analytics-services.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogs-v2.pixelfederation.com
@@ -365,6 +366,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 log.apk.v-mate.mobi
