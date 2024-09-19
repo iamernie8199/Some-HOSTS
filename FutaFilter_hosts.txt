@@ -1,5 +1,5 @@
 # FutaFilter_hosts
 # Converted from - https://filter.futa.gg/hosts.txt
-# Last converted - 17 May 2024
+# Last converted - 19 Sep 2024
 #
 

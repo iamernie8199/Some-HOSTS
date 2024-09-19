@@ -1,6 +1,6 @@
 # AdguardMobileAds
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - 17 May 2024
+# Last converted - 19 Sep 2024
 #
 
 0.0.0.0 023hysj.com
@@ -41,6 +41,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.flipboard.com
+0.0.0.0 ad.iwhop.cn
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leap.app
@@ -202,7 +203,6 @@
 0.0.0.0 advertur.ru
 0.0.0.0 advil.waze.com
 0.0.0.0 advombat.ru
-0.0.0.0 adwods.com
 0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 adx-tk.rayjump.com
@@ -211,6 +211,7 @@
 0.0.0.0 adzerk.net
 0.0.0.0 adzmobi.com
 0.0.0.0 agent.tamedia.com.tw
+0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
 0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 alicdn.com
@@ -437,7 +438,6 @@
 0.0.0.0 go.vrvm.com
 0.0.0.0 googleadservices.com
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
-0.0.0.0 goyetteconnelly.bid
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 gumgum.com
 0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
@@ -503,12 +503,10 @@
 0.0.0.0 kfvjdvjzhddhc.com
 0.0.0.0 kiesta.net
 0.0.0.0 kiosked.com
-0.0.0.0 kjos.vo.llnwd.net
 0.0.0.0 kochava.com
 0.0.0.0 komoona.com
 0.0.0.0 krt.asycxtz.cn
 0.0.0.0 krutilka.net
-0.0.0.0 kskwai.com
 0.0.0.0 kusuriyasan.org
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 l3op.info
@@ -568,7 +566,6 @@
 0.0.0.0 mobilecore.com
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mobilefuse.com
-0.0.0.0 mobon.com
 0.0.0.0 mobondhrd.appspot.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 mobpowertech.com
@@ -692,6 +689,7 @@
 0.0.0.0 rtblab.net
 0.0.0.0 ruuaqkw.com
 0.0.0.0 s-adx.op-mobile.opera.com
+0.0.0.0 s-odx.oleads.com
 0.0.0.0 s.adx.opera.com
 0.0.0.0 s.hisp.in
 0.0.0.0 s3.ttpsdk.info
@@ -814,6 +812,7 @@
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ultraadserver.com
 0.0.0.0 umbel.com
+0.0.0.0 umphek.com
 0.0.0.0 unicume.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 upsight.com
